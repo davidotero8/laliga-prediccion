@@ -2,8 +2,10 @@
 
 Modelo estadístico que estima, antes de cada partido de LaLiga, la probabilidad de **victoria local, empate y victoria visitante**, usando solo los resultados pasados. Se evalúa sin "mirar el futuro" y se compara con las **cuotas de las casas de apuestas** como vara de medir. Incluye una **app interactiva** (Streamlit).
 
+👉 **App en línea: [laliga-prediccion.streamlit.app](https://laliga-prediccion.streamlit.app)**
+
 <p align="center">
-  <img src="docs/figures/app.jpg" width="62%" alt="App de predicción: probabilidades y marcadores más probables de un partido">
+  <a href="https://laliga-prediccion.streamlit.app"><img src="docs/figures/app.jpg" width="62%" alt="App de predicción: probabilidades y marcadores más probables de un partido"></a>
 </p>
 
 ## Resultados
